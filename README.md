@@ -133,12 +133,6 @@ ESP receives serial data from Arduino, parses it, and uploads:
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
-
----
-
 ## 🙋‍♀️ Author
 
 **Muskan Sinha**  
