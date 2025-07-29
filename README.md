@@ -91,7 +91,7 @@ Arduino reads DHT22 & LDR, then:
 - Sends data via USB serial to LabVIEW
 - Sends data to ESP8266 via SoftwareSerial
 
-[🔗 Arduino Code](./arduino_environment_monitor.ino)
+[🔗 Arduino Code]("C:\Users\Manish\Desktop\arduino_code.ino")
 
 ---
 
