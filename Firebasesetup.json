@@ -1,0 +1,32 @@
+# 🔥 Firebase Setup Guide
+
+## 🛠️ Realtime Database Setup
+
+1. Go to [Firebase Console](https://console.firebase.google.com)
+2. Create a new project (e.g., **Smart Environmental Monitoring**)
+3. Go to **Build → Realtime Database**
+4. Click **Create Database** → Choose your region → Start in test mode (for learning)
+5. Your database URL will look like:  
+
+## 🌿 Sample Data Structure
+
+```json
+{
+"SmartEnvironment": {
+ "temperature": "0.0",
+ "humidity": "0.0",
+ "light": "0"
+}
+}
+🔐 Firebase Rules (for ESP8266 write access)
+Go to Rules tab and set:
+{
+  "rules": {
+    ".read": true,
+    ".write": true
+  }
+}
+In Arduino:
+
+#define FIREBASE_HOST "https://environment-monitoring-e0d27-default-rtdb.firebaseio.com"
+#define FIREBASE_AUTH "AIzaSyDjf4zz3Xd0QKYQcbxbDs3FOQFFRKnPBI4"
