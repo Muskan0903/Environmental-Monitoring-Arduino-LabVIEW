@@ -1,4 +1,4 @@
-# Environmental-Monitoring-Arduino-LabVIEW
+# IoT-Based Environmental Monitoring System
 
 ![Arduino](https://img.shields.io/badge/Platform-Arduino-blue?logo=arduino)
 ![ESP8266](https://img.shields.io/badge/WiFi-ESP8266-lightgrey?logo=esphome)
