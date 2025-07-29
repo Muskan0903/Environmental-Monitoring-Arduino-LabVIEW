@@ -109,8 +109,6 @@ ESP receives serial data from Arduino, parses it, and uploads:
 - **LED Alert** for threshold warnings
 - Data read from **Serial (COM)** at 9600 baud
 
-📌 *Block diagram & VI screenshot included in `/LabVIEW/` folder.*
-
 ---
 
 ## 🔥 Firebase Structure
