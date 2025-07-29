@@ -7,7 +7,7 @@
 
 // Firebase Credentials
 #define API_KEY "AIzaSyDjf4zz3Xd0QKYQcbxbDs3FOQFFRKnPBI4"
-#define DATABASE_URL "https://environment-monitoring-e0d27.firebaseio.com"
+#define DATABASE_URL "https://environment-monitoring-e0d27-default-rtdb.firebaseio.com"
 
 #define UNO_RX 3
 #define UNO_TX 1
