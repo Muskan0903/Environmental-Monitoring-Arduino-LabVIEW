@@ -91,8 +91,6 @@ Arduino reads DHT22 & LDR, then:
 - Sends data via USB serial to LabVIEW
 - Sends data to ESP8266 via SoftwareSerial
 
-[🔗 Arduino Code]("C:\Users\Manish\Desktop\arduino_code.ino")
-
 ---
 
 ## 📶 ESP8266 Code (ESP-01S)
@@ -101,8 +99,6 @@ ESP receives serial data from Arduino, parses it, and uploads:
 - Temperature → `/Environment/Temperature`
 - Humidity → `/Environment/Humidity`
 - Light → `/Environment/Light`
-
-[🔗 ESP8266 Firebase Code](./esp_firebase_uploader.ino)
 
 ---
 
@@ -149,7 +145,7 @@ This project is licensed under the MIT License - see the [LICENSE](./LICENSE) fi
 
 **Muskan Sinha**  
 *Electronics & Instrumentation Engineering*  
-[LinkedIn Profile](https://www.linkedin.com/in/yourname)
+[LinkedIn Profile](https://www.linkedin.com/in/muskansinha0903)
 
 ---
 
