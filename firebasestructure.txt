@@ -1,0 +1,7 @@
+{
+  "SmartEnvironment": {
+    "temperature": "0.0",
+    "humidity": "0.0",
+    "light": "0"
+  }
+}
